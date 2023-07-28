@@ -1,0 +1,7 @@
+Finalmente, verifica que Git se instaló correctamente
+
+git --version
+4. Ejecuta los siguientes comandos con tu información para establecer un nombre de usuario y un correo electrónico predeterminados para cuando vayas a salvar tu trabajo.
+
+git config --global user.name "MV Thanoshan"
+git config --global user.email "example@mail.com"
